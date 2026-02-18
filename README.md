@@ -1,18 +1,18 @@
-# 👋 Hi, I'm shisanzhang
+# Hi, I'm shisanzhang
 
 ### 🤖 AI Developer | 🕷️ Web Scraping Specialist | ✍️ Marketing Copywriter
 
-## 🚀 About Me
+##  About Me
 
 I'm a full-stack developer passionate about leveraging AI and automation to solve real-world problems. My work spans across:
 
-- 🧠 **AI Integration**: Building tools with Claude, MCP servers, and VSCode extensions
-- 🕸️ **Web Scraping**: Developing robust crawlers for data collection and analysis
-- 📊 **E-commerce**: Creating marketing solutions for platforms like Mijia Mall (米家商城)
-- 🌐 **Bilingual Development**: Working seamlessly in English and Chinese environments
+- **AI Integration**: Building tools with Claude, MCP servers, and VSCode extensions
+- **Web Scraping**: Developing robust crawlers for data collection and analysis
+- **E-commerce**: Creating marketing solutions
+- **Bilingual Development**: Working seamlessly in English and Chinese environments
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
